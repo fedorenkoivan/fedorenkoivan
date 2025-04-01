@@ -1,5 +1,6 @@
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedorenkoivan)](https://github.com/fedorenkoivan/github-readme-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9z4ppnxnj4efoq0kguuymdbi0&cover_image=true&theme=default&show_offline=false&background_color=377416&interchange=false&bar_color=10e708)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **fedorenkoivan/fedorenkoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
