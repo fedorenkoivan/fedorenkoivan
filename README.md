@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedorenkoivan)](https://github.com/fedorenkoivan/github-readme-stats)
 
 <!--
 **fedorenkoivan/fedorenkoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
