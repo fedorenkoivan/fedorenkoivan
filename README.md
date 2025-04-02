@@ -4,8 +4,7 @@ I'm Ivan Fedorenko, a student of FICE KPI.
 - 🌱 I’m currently learning **React, TypeScript, Fastify**
 - 💬 Ask me about **DRY, KISS, SOLID**
 - 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
-- 📄 Know about my experiences [https://www.linkedin.com/in/ivan-fedorenko-8254b0352/](https://www.linkedin.com/in/ivan-fedorenko-8254b0352/)
-- ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie.**
+- ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
 
 :mailbox: Connect me!
 
@@ -18,13 +17,6 @@ I'm Ivan Fedorenko, a student of FICE KPI.
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Sass Badge](https://img.shields.io/badge/-Sass-e535ab?style=for-the-badge&labelColor=black&logo=sass&logoColor=e535ab)](#)
-
-<br/>
-### Business 
-- :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7298609490717736960/)
-- :email: fedorenko.ivan@lll.kpi.ua
-
-<br/>
 
 ### My stats ⭐
 
