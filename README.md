@@ -6,10 +6,11 @@ I'm Ivan Fedorenko, a student of FICE KPI.
 - 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
 - ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
 
-:mailbox: Connect me!
+:mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-FedorenkoIvan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-fedorenko-8254b0352/) 
-
+### Business 
+- :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7298609490717736960/)
 
 #### Top Technologies
 
