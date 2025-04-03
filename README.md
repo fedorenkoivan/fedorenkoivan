@@ -24,6 +24,4 @@ I'm Ivan Fedorenko, a student of FICE KPI.
 <div align="center">
 <img alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedorenkoivan&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=8"/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedorenkoivan&" alt="fedorenkoivan conrtibution stats" /></p>
 </div>
