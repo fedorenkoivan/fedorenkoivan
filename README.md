@@ -1,8 +1,10 @@
-### Hi, I'm Ivan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-I'm Ivan Fedorenko, a student of FICE KPI.
+Ivan Fedorenko here, a student of FICE KPI.
 - 🔭 I’m currently working at **ISS NAN** as a software engineer (Computer Theory)
-- 🌱 I’m currently learning **React, TypeScript, Fastify**
+- 🌱 Curious learner of **React, TypeScript, Fastify**
 - 💬 Ask me about **DRY, KISS, SOLID**
 - 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
 - ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
@@ -25,4 +27,5 @@ I'm Ivan Fedorenko, a student of FICE KPI.
 <div align="center">
 <img alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedorenkoivan&show_icons=true&theme=transparent"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
