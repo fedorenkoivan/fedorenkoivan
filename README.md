@@ -1,6 +1,7 @@
 ### Hi, I'm Ivan 👋
 
-I'm Ivan Fedorenko, a student of FICE KPI. 
+I'm Ivan Fedorenko, a student of FICE KPI.
+- 🔭 I’m currently working at **ISS NAN** as a software engineer (Computer Theory)
 - 🌱 I’m currently learning **React, TypeScript, Fastify**
 - 💬 Ask me about **DRY, KISS, SOLID**
 - 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
