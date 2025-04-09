@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hola!&height=100&section=header"/>
 </p>
+
+<div align="center"> 
+   <a href="https://git.io/typing-svg">
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile+page!" />
+   </a>
+ </div>
 
 Ivan Fedorenko here, a student of FICE KPI.
 - 🔭 I’m currently working at **ISS NAN** as a software engineer (Computer Theory)
