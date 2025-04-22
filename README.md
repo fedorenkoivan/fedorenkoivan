@@ -21,7 +21,7 @@ Ivan Fedorenko here, a student of FICE KPI.
 </p>
 
 ### Business 
-- :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7314998761137602561/)
+:paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7314998761137602561/)
 
 #### Top Technologies
 
