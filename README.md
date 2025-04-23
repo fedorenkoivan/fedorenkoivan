@@ -34,6 +34,6 @@ Ivan Fedorenko here, a student of FICE KPI.
 
 <div align="center">
 <img alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedorenkoivan&rank_icon=percentile&theme=radical"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=20"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=20&theme=radical"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
