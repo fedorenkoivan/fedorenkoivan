@@ -23,8 +23,6 @@ Ivan Fedorenko here, a student of FICE KPI.
 ### Business 
 :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7314998761137602561/)
 
-#### Top Technologies
-
 ### Front-end:  
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Angular Badge](https://img.shields.io/badge/-Angular-red?style=for-the-badge&labelColor=black&logo=angular&logoColor=red)](#) 
