@@ -10,7 +10,7 @@
 
 Ivan Fedorenko here, a student of FICE KPI.
 - 🔭 I’m currently working at **ISS NAN** as a software engineer (Computer Theory)
-- 🌱 Curious learner of **React, TypeScript, Fastify**
+- 🌱 Curious learner of **React, Angular, TypeScript, Fastify**
 - 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
 - ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
 
