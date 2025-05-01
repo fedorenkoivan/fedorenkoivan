@@ -20,7 +20,7 @@ Ivan Fedorenko here, a student of FICE KPI.
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-### Business 
+### Business :
 :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7314998761137602561/)
 
 ### Front-end:  
@@ -39,7 +39,7 @@ Ivan Fedorenko here, a student of FICE KPI.
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)](#)
 [![SQLserver Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)](#)
 
-### My stats ⭐
+### My stats :
 <div align="center">
 <img alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedorenkoivan&rank_icon=percentile&theme=radical"/>
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=20&theme=radical"/>
