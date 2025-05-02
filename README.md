@@ -21,7 +21,7 @@ Ivan Fedorenko here, a student of FICE KPI.
 </p>
 
 ### Business :
-:paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7314998761137602561/)
+:paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7324082720077185026/)
 
 ### Front-end:  
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
