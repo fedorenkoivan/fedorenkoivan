@@ -16,7 +16,7 @@ Ivan Fedorenko here, a student of FICE KPI.
 
 ### React me out!
 <div>
-  <a href="https://www.linkedin.com/in/ivan-fedorenko-8254b0352">
+  <a href="https://www.linkedin.com/in/fedorenkoivan/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35" alt="linkedin logo"  />
   </a>
 </div>
