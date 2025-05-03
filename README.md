@@ -15,10 +15,11 @@ Ivan Fedorenko here, a student of FICE KPI.
 - ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
 
 ### React me out!
-<p align="left">
-<a href="https://www.linkedin.com/in/ivan-fedorenko-8254b0352/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+<div>
+  <a href="https://www.linkedin.com/in/ivan-fedorenko-8254b0352">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ### Business :
 :paperclip: [My Resume](https://www.linkedin.com/feed/update/urn:li:activity:7324082720077185026/)
