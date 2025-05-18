@@ -4,7 +4,7 @@
 
 <div align="center"> 
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com/?lines=Beyond+the+walls...+there's+a+sea..." />
+     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyborgs+survived,+concrete+did+not." />
    </a>
  </div>
 
