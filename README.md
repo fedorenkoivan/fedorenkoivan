@@ -34,10 +34,14 @@ Ivan Fedorenko here, a student of FICE KPI. Full Stack Developer from Kyiv, Ukra
 [![Fastify Badge](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) 
+[![Golang Badge](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)](#) 
+
 
 ### Databases:  
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)](#)
 [![SQLserver Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 ### My stats :
 <div align="center">
