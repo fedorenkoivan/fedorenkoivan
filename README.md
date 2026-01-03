@@ -42,10 +42,3 @@ Ivan Fedorenko here, a student of FICE KPI. Full Stack Developer from Kyiv, Ukra
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green)](#)
 [![SQLserver Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-
-### My stats :
-<div align="center">
-<img alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fedorenkoivan&rank_icon=percentile&theme=radical"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedorenkoivan&layout=compact&&langs_count=20&theme=radical"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
