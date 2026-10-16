@@ -10,7 +10,7 @@
 
 Ivan Fedorenko here, a student of FICE KPI. Full Stack Developer from Kyiv, Ukraine.
 - 🔭 Software Engineer at Headway Inc (08.2025 - present).
-- 📫 How to reach me **fedorenko.ivan@lll.kpi.ua**
+- 📫 How to reach me **ivan.r.fedorenko@gmail.com**
 - ⚡ Fun fact **Love the trillogy "First Law" by Joe Abercrombie**
 
 ### React me out!
